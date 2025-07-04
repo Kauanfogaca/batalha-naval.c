@@ -90,6 +90,7 @@ int main () {
         }
 
         // Exibe o tabuleiro no console
+        printf("***BATALHA NAVAL***\n");
         exibirTabuleiro(tabuleiro);
 
         return 0;
